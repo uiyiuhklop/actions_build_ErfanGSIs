@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL:https://get.pixelexperience.org/QUNaV3BXdlRrbklncVh2dWFpdG9ZbTFvcHhqNktSZkNvc21PUGhOaWc3WjQxK0RUbGlIUUdrZUYxR1J4RHVNNEd3R0pqZThDSFR5dE1qaUtFc2QvVDZCODZpdng1OEtGNUZMa2dkQklCWTg9/PixelExperience_zippo-12.1-20220516-1509-OFFICIAL.zip
+  ROM_URL: https://get.pixelexperience.org/QUNaV3BXdlRrbklncVh2dWFpdG9ZbTFvcHhqNktSZkNvc21PUGhOaWc3WjQxK0RUbGlIUUdrZUYxR1J4RHVNNEd3R0pqZThDSFR5dE1qaUtFc2QvVDZCODZpdng1OEtGNUZMa2dkQklCWTg9/PixelExperience_zippo-12.1-20220516-1509-OFFICIAL.zip
   ROM_NAME: Generic
   BUILD_TYPE: Aonly
   TZ: Asia/Shanghai
